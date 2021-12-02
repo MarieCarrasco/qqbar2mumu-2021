@@ -1,4 +1,4 @@
-
+ 
 :warning: | WIP - ne pas utiliser avant la première scéance | :bangbang:
 :---: | :---: | :---:
 
@@ -27,7 +27,7 @@ Une fois le "Fork" réalisé, vous êtes en possession d'une copie complète du 
 
 ![screenshot git fork2](./screenshot-git-fork-2.png)
 
-Par la suite, l'adresse de votre projet sur Github (*https://github.com/"YOUR_GIT_USER_NAME"/qqbar2mumu-2021.git*) sera référencée par *myrepo*.
+Par la suite, l'adresse de votre projet sur Github (*https://github.com/"MaryRascal"/qqbar2mumu-2021.git*) sera référencée par *myrepo*.
 En local sur votre machine, il faut maintenant accéder à cette copie. Pour cela, vous devez utiliser les commandes suivantes :
 
 ```shell
